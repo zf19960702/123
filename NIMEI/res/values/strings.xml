@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NIMEI</string>
+    <string name="yinyan">高考在骄阳似火中落下帷幕。\n现在，你已经是哈尔滨工业大学的一份子。无论高考是你心目中与梦想接轨的桥梁,又或者是你的噩梦，结局都已注定。\n但请记住，虽然我们无法修改过去，但是可以决定未来。\n\n\n\n大学是崭新的一页，而你，又会留下怎样的诗篇？</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

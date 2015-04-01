@@ -1,0 +1,9 @@
+<xml version="1.0" encoding="utf-8">
+<Imageset>
+    <Image Name="计科" state="计算机科学与技术\n" addName="交际"/>
+    <Image Name="生信" state="生物信息\n" addName="疲劳"/>
+    <Image Name="信安" state="信息安全\n" addName="体力"/>
+    <Image Name="软件" state="软件工程\n" addName="金钱"/>
+    <Image Name="物联" state="物联网工程\n" addName="娱乐"/>
+</Imageset>
+</xml>

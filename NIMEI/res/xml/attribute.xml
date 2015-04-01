@@ -1,0 +1,23 @@
+<xml version="1.0" encoding="UTF-8">
+<Imageset>
+    <Image Name="体力" limitValue="1000" />
+    <Image Name="知识" limitValue="1000" />
+    <Image Name="娱乐" limitValue="1000" />
+    <Image Name="实践" limitValue="1000" />
+    <Image Name="交际" limitValue="1000" />
+    <Image Name="政治" limitValue="1000" />
+    <Image Name="人气" limitValue="1000" />
+    <Image Name="疲劳" limitValue="1000" />
+    <Image Name="工数" limitValue="1000" />
+    <Image Name="线数" limitValue="1000" />
+    <Image Name="军理" limitValue="1000" />
+    <Image Name="体育" limitValue="1000" />
+    <Image Name="py" limitValue="1000" />
+    <Image Name="C语言" limitValue="1000" />
+    <Image Name="思修" limitValue="1000" />
+    <Image Name="导论" limitValue="1000" />
+    <Image Name="英语" limitValue="1000" />
+    <Image Name="金钱" limitValue="35000" />
+    <Image Name="健康" limitValue="100" />
+</Imageset>
+</xml>

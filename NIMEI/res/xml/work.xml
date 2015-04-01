@@ -1,0 +1,21 @@
+<xml version="1.0" encoding="utf-8">
+<Imageset>
+    <Image Name="工数课" type="学习" price="0" tired="3" addAttr="知识，工数" lessen="娱乐"/>
+    <Image Name="线数课" type="学习" price="0" tired="3" addAttr="知识，线数" lessen="娱乐"/>
+    <Image Name="思修课" type="学习" price="0" tired="1" addAttr="知识，思修，政治" lessen=""/>
+    <Image Name="军理课" type="学习" price="0" tired="1" addAttr="知识，军理，体力" lessen=""/>
+    <Image Name="体育课" type="学习" price="0" tired="2" addAttr="知识，体育，体力" lessen=""/>
+    <Image Name="py课" type="学习" price="0" tired="3" addAttr="知识，py，实践" lessen="交际"/>
+    <Image Name="C课" type="学习" price="0" tired="3" addAttr="知识，C语言，实践" lessen="交际"/>
+    <Image Name="导论课" type="学习" price="0" tired="1" addAttr="知识，导论，政治" lessen=""/>
+    <Image Name="英语课" type="学习" price="0" tired="2" addAttr="知识，英语，娱乐" lessen=""/>
+    <Image Name="自习" type="学习" price="0" tired="3" addAttr="知识，工数，线数" lessen=""/>
+    <Image Name="上机" type="学习" price="0" tired="3" addAttr="知识，C语言，py" lessen=""/>
+    <Image Name="家教" type="工作" price="120" tired="3" addAttr="交际" lessen="体力"/>
+    <Image Name="打字员" type="工作" price="40" tired="1" addAttr="政治" lessen="知识"/>
+    <Image Name="休息" type="休息" price="0" tired="0" addAttr="" lessen="疲劳"/>
+    <Image Name="打游戏" type="休息" price="-2" tired="2" addAttr="人气，娱乐，交际" lessen="知识"/>
+    <Image Name="K歌" type="休息" price="-2" tired="2" addAttr="人气，娱乐，交际" lessen="知识"/>
+    <Image Name="军训" type="学习" price="0" tired="2" addAttr="体力，实践，交际" lessen=""/>
+</Imageset>
+</xml>
